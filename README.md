@@ -1,6 +1,6 @@
 # vault-guard – Decentralized Savings dApp
 
-# vault-guard is a decentralized savings application that allows users to deposit ETH into an on-chain time-locked vault, lock it for a defined period, and withdraw only after the lock has expired. This repository currently hosts the **React + Vite** frontend, which is designed to connect to a `Vault` smart contract (typically maintained in a separate Foundry repository) deployed on the Base network.
+vault-guard is a decentralized savings application that allows users to deposit ETH into an on-chain time-locked vault, lock it for a defined period, and withdraw only after the lock has expired. This repository currently hosts the **React + Vite** frontend, which is designed to connect to a `Vault` smart contract (typically maintained in a separate Foundry repository) deployed on the Base network.
 
 ---
 
